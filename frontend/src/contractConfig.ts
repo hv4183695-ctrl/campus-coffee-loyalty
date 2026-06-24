@@ -1,0 +1,11 @@
+export const CONTRACT_ID =
+  "CBOOI6YDXYCVZZPAMIRAV3DHLGZH6F4G5M6OKG5UYPUCGJLKJED5KXIE";
+
+export const ADMIN_ADDRESS =
+  "GAC5KQHDYYNF5G43NAHPUOZFVCV7JIZZUR7GC73W5JZTAXGD4MQNHCEIZL";
+
+export const RPC_URL = "https://soroban-testnet.stellar.org:443";
+
+export const NETWORK_PASSPHRASE = "Test SDF Network ; September 2015";
+
+export const VND_PER_POINT = 10_000;
